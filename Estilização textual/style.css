@@ -1,0 +1,25 @@
+p {
+    font-family: Arial; /* qual fonte */
+}
+
+p {
+    font-family: sans-serif; /* tipo de  fonte: melhor pra páginas web */
+}
+
+p {
+    font-family: serif; /* tipo de  fonte: melhor pra coisas impressas */
+}
+
+p {
+    font-family: monospace; /* tipo de  fonte: melhor pra páginas web*/
+}
+p{
+    font-size: 18px; /* tamanho da fonte*/
+    font-style: normal; /* estilo normal ou italico*/
+    font-weight: 300; /*espessura/peso da fonte*/
+
+    line-height: normal; /*tamanho/espessura da linha*/
+
+    text-align: center; alinhamento do texto
+    text-decoration: line-height: colocar linha no texto
+    text-indent: 85px; parágrafo
